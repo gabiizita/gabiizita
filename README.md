@@ -2,7 +2,7 @@
 
 🎯 Em transição de carreira para a área de Tecnologia
 
-💻 Estudante de Programação (Front-end ,JavaScript e Python)
+💻 Estudante de Programação (HTML, CSS ,JavaScript e Python)
 
 📚 Foco desenvolvimento web, desenvolvimento de sistemas, e análise de dados
 
