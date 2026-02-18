@@ -2,9 +2,9 @@
 
 🎯 Em transição de carreira para a área de Tecnologia
 
-💻 Estudante de Programação (Java, Python e Front-end)
+💻 Estudante de Programação (Front-end ,JavaScript e Python)
 
-📚 Foco programação, desenvolvimento de sistemas, desenvolvimento web e análise de dados
+📚 Foco desenvolvimento web, desenvolvimento de sistemas, e análise de dados
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabiizita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
