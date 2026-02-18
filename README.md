@@ -1,4 +1,5 @@
-## Olá, Bem vindo ao meu perfil! 😀
+## 🌙 Gabriela Souza ##
+
 🎯 Em transição de carreira para a área de Tecnologia
 
 💻 Estudante de Programação (Java, Python e Front-end)
