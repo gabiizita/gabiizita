@@ -10,7 +10,7 @@
 
 ## 🤖 Habilidades ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
@@ -33,14 +33,12 @@
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       target="_blank">
   </a>
-
   <a 
     href = "mailto:devgabrielasouza@gmail.com">
     <img 
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
       target="_blank">
   </a>
-
   <a 
     href="https://www.linkedin.com/in/gabriela-regina11/" 
     target="_blank">
@@ -48,5 +46,4 @@
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       target="_blank">
   </a> 
-  
 </div>
