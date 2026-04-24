@@ -9,11 +9,11 @@
 
 ## 🤖 Habilidades ##
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> HTML5
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> CSS3
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> JavaScript
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"/> Python
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> Git
 
 ## Vamos nos conectar? ##
 
