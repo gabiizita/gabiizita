@@ -8,11 +8,13 @@
 
 - Desenvolvedora Front-End em formação, apaixonada por tecnologia e pela construção de interfaces que unem funcionalidade, clareza e boa experiência do usuário.
 
+
 ## 📈 Atualmente Estudando
 - JavaScript (DOM, Async/Await)
 - Python + FastAPI para APIs
 - Integração com OpenAI GPT
 - Git workflows avançados
+
 
 ## 🛠️ Stack de Tecnologias
 🌐 Web: HTML, CSS, JavaScript
@@ -22,6 +24,7 @@
 🤖 IA: OpenAI API, LangChain
 
 📂 Versionamento: Git/GitHub
+
 
 ## ⚙️ Skills
 <table>
@@ -36,38 +39,32 @@
   </tr>
 </table>
 
-## Vamos nos conectar? 
-<div> 
-  <a 
-    href="https://instagram.com/agabriela_011" 
-    target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+<div align='center'>
+  
+  ## 📫 Vamos nos conectar? 
+  <div> 
+    <a 
+      href="https://instagram.com/agabriela_011" 
       target="_blank">
-  </a>
-  <a 
-    href = "mailto:devgabrielasouza@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+      <img 
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        target="_blank">
+    </a>
+    <a 
+      href = "mailto:devgabrielasouza@gmail.com">
+      <img 
+        src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+        target="_blank">
+    </a>
+    <a 
+      href="https://www.linkedin.com/in/gabriela-regina11/" 
       target="_blank">
-  </a>
-  <a 
-    href="https://www.linkedin.com/in/gabriela-regina11/" 
-    target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      target="_blank">
-  </a> 
+      <img 
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        target="_blank">
+    </a> 
+    
+  *Feito com ❤️ por Gabriela Souza*
+  </div>
 </div>
 
-*Feito com ❤️ usando GitHub e Markdown*
-
-> **Portfolio** - Site pessoal com animações CSS  
-> [🔗 Demo](link) | [📁 Código](link)
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=dark" width="48%"/>
-</div>
