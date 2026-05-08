@@ -12,7 +12,7 @@
 ## 📈 Atualmente Estudando
 - JavaScript (DOM, Async/Await)
 - Python com APIs
-- Integração com OpenAI GPT
+- Integração com AI
 - Git
 
 
