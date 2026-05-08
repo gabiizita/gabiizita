@@ -11,17 +11,17 @@
 
 ## 📈 Atualmente Estudando
 - JavaScript (DOM, Async/Await)
-- Python + FastAPI para APIs
+- Python com APIs
 - Integração com OpenAI GPT
-- Git workflows avançados
+- Git
 
 
 ## 🛠️ Stack de Tecnologias
 🌐 Web: HTML, CSS, JavaScript
 
-🐍 Backend: Python, FastAPI
+🐍 Backend: Python
 
-🤖 IA: OpenAI API, LangChain
+🤖 IA: OpenAI API
 
 📂 Versionamento: Git/GitHub
 
