@@ -11,17 +11,16 @@
 
 ## 📈 Atualmente Estudando
 - JavaScript (DOM, Async/Await)
+- HTML e CSS para Web
 - Python com APIs
-- Integração com AI
-- Git
+- Integração e Automação com AI
+- Git e GitHub
 
 
 ## 🛠️ Stack de Tecnologias
 🌐 Web: HTML, CSS, JavaScript
 
-🐍 Backend: Python
-
-🤖 IA: OpenAI API
+🤖 IA: Automações/API
 
 📂 Versionamento: Git/GitHub
 
