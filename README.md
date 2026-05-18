@@ -28,8 +28,9 @@
 <br/>
 
 
-<img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaSouzaDev&theme=midnight_purple"/>
-
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaSouzaDev&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
