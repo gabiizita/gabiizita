@@ -39,7 +39,7 @@
 
 <div>
 
-  <img width="40" alt="javscript" src="https://github.com/user-attachments/assets/259759eb-21d5-4b99-8cee-b6949f1f9d0b" />
+  <img width="40" alt="javascript" src="https://github.com/user-attachments/assets/259759eb-21d5-4b99-8cee-b6949f1f9d0b" />
   <img width="40" alt="html" src="https://github.com/user-attachments/assets/21d5886c-2841-41b4-8afc-f97f3b284834" />
   <img width="40" alt="css" src="https://github.com/user-attachments/assets/d7df6827-f9da-4009-a237-b5224cd69614" />
   <!--
