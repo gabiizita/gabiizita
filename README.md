@@ -10,32 +10,71 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=I'm+Gabriela_Souza+%F0%9F%91%8B;Frontend+Developer"/>
 </a>
 
-
-<br/>
-
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="80%"/>
 
+<br/>
+
+---
+### 👩🏽‍💻 SOBRE MIM
+
+  Desenvolvedora em formação com foco em Front-End e evolução para Full Stack.
+  
+  Atualmente estudo desenvolvimento web e Python, criando projetos reais para aprimorar minhas habilidades e construir um portfólio sólido.
+  
+  Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e evoluir continuamente como desenvolvedora.
+
+</br>
+
+📚 Estudando Python e Java pelo SENAI.
+
+🎨 Apaixonada por criar interfaces bonitas e responsivas.
+
+🌱 Aprendendo diariamente sobre Front-End e Back-End.
+
+🔎 Interesse em APIs, automação e desenvolvimento Full Stack.
+
+🌎 Estudando inglês para ampliar minhas oportunidades e conhecimentos.
 
 <br/>
 
+---
 
-![GitHub followers](https://img.shields.io/github/followers/GabrielaSouzaDev??label=Followers&style=for-the-badge&color=6E40C9&labelColor=1a1a2e)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/GabrielaSouzaDev?style=for-the-badge&color=FFD700&labelColor=1a1a2e&label=Total%20Stars)
+### ⭐ PROJETOS EM DESTAQUE
+### 🍰 Eta Cheirin Bão
 
+Site responsivo desenvolvido com HTML, CSS e JavaScript, focado em experiência do usuário, design moderno e responsividade.
+
+### 🤖 Bot Telegram
+
+Bot desenvolvido em Python com uso de Selenium para raspagem de dados e automação com API do Telegram.
+
+### ✨ Fundo Mágico
+
+Projeto utilizando HTML, CSS, JavaScript e automação com N8N.
+
+### 📊 Análise de Dados com Excel e Python
+
+Projeto de análise de produtos utilizando Python e planilhas Excel.
 
 <br/>
 
+---
 
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaSouzaDev&theme=tokyonight&hide_border=true" />
-</p>
+### 🎯 OBJETIVOS
 
-<br/>
+✅ Aprender React
 
+✅ Aprender FastAPI
 
-### ⚙️ Skills
+✅ Dominar PostgreSQL
+
+✅ Desenvolver projetos Full Stack
+
+✅ Conquistar minha primeira oportunidade como desenvolvedora
+
+---
+
+### ⚙️ SKILLS
 
 <div>
 
@@ -64,15 +103,25 @@
   -->
   <img width="40" alt="vscode" src="https://github.com/user-attachments/assets/60cc3b65-dfc3-41e4-b774-e3e1f4c67c59" />
   <img width="40" alt="notion" src="https://github.com/user-attachments/assets/b2858705-9046-4b90-94bb-47fd76c9a17e" />
-
-  
 </div>
+
+<br/> 
+
+
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaSouzaDev&theme=tokyonight&hide_border=true" />
+</p>
+
+![GitHub followers](https://img.shields.io/github/followers/GabrielaSouzaDev??label=Followers&style=for-the-badge&color=6E40C9&labelColor=1a1a2e)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/GabrielaSouzaDev?style=for-the-badge&color=FFD700&labelColor=1a1a2e&label=Total%20Stars)
+
 
 <div align='center'>
 
 <br/>
 
-### 📫 Let's connect.
+### 📫 Vamos nos Conectar.
 <div> 
   <a href="https://www.instagram.com/devgabrielasouza/" targer="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -94,7 +143,7 @@
   
   <br/>
   
-  ### 💜 &nbsp;Thanks for visiting!
+  ### 💜 &nbsp;Obrigada pela Visita!
   
   <br/>
   
