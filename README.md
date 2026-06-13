@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=I'm+Gabriela_Souza+%F0%9F%91%8B;Frontend+Developer"/>
 </a>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="80%"/>
-
-<br/>
-
 ---
 ### 👩🏽‍💻 SOBRE MIM
 
