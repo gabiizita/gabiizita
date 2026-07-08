@@ -21,7 +21,7 @@
 
 </br>
 
-📚 Estudando Python e Java pelo SENAI.
+📚 Estudando Java pelo SENAI.
 
 🎨 Apaixonada por criar interfaces bonitas e responsivas.
 
